@@ -1,2 +1,2 @@
-# Data_StructurePr
-This is my first repository
+# Data_StructurePr_Krutika
+Data Structures Programs By Krutika
